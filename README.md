@@ -1,4 +1,4 @@
-# reverseword
+# Reverse Word Using JS
 
 ## Using For Loop
 
